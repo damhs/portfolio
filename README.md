@@ -6,7 +6,7 @@ Hello! I'm a full-stack developer with a strong focus on backend development. I 
 
 ## 🚀 Projects
 
-### 1. **Medication Support App for Chronic Illness Patients, '약꾹'**
+### 1. **Medication Support App for Chronic Illness Patients, '약꾹'** [Github](https://github.com/jlee4330/medMax)
    - **Description**: '약꾹' is a social support app designed to help chronic illness patients adhere to their medication routines. It integrates a metaverse experience built with Unity and provides real-time data flow between client and server.
    - **Role**: Full-stack Developer (Backend-focused)
    - **Key Features**:
@@ -24,7 +24,7 @@ Hello! I'm a full-stack developer with a strong focus on backend development. I 
 
 ---
 
-### 2. **Reading Motivation App, '다독'**
+### 2. **Reading Motivation App, '다독'** [Github](https://github.com/damhs/madcampweek1)
    - **Description**: '다독' is a mobile application aimed at fostering reading habits through goal-setting and progress tracking.
    - **Role**: Lead Frontend Developer (also contributed to planning and design)
    - **Key Features**:
